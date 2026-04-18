@@ -1,2 +1,2 @@
-# revision-data-analysis-python 
-Python program that accepts five positive integers, validates input, and calculates total, average, highest value, and checks if the highest is even or odd.
+# python functions 
+This repository contains beginner-level Python programs focused on learning how to create and use functions.
