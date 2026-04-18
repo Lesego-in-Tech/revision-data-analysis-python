@@ -25,7 +25,7 @@ Through these exercises, the following skills are developed:
 - Creating simple simulations using random numbers
 - Organising code into modules
 
-## 📁 Types of Programs Included
+Types of Programs Included
 - Function-based calculators
 - Programs using random number generation
 - Mathematical computation programs
